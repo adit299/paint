@@ -1,0 +1,104 @@
+PaintSaveFileVersion1.0
+Rectangle
+	color:119,104,210
+	filled:true
+	p1:(90,90)
+	p2:(90,90)
+End Rectangle
+Rectangle
+	color:189,23,37
+	filled:false
+	p1:(90,90)
+	p2:(200,220)
+End Rectangle
+Rectangle
+	color:249,144,235
+	filled:false
+	p1:(385,186)
+	p2:(385,186)
+End Rectangle
+Rectangle
+	color:93,56,151
+	filled:false
+	p1:(385,186)
+	p2:(359,302)
+End Rectangle
+Rectangle
+	color:213,155,54
+	filled:true
+	p1:(50,425)
+	p2:(50,425)
+End Rectangle
+Rectangle
+	color:100,129,27
+	filled:false
+	p1:(50,425)
+	p2:(272,460)
+End Rectangle
+Rectangle
+	color:185,165,250
+	filled:true
+	p1:(192,340)
+	p2:(148,377)
+End Rectangle
+Rectangle
+	color:22,192,76
+	filled:true
+	p1:(388,394)
+	p2:(449,457)
+End Rectangle
+Rectangle
+	color:6,42,106
+	filled:false
+	p1:(274,118)
+	p2:(250,289)
+End Rectangle
+Rectangle
+	color:196,74,242
+	filled:true
+	p1:(429,132)
+	p2:(476,259)
+End Rectangle
+Rectangle
+	color:23,254,82
+	filled:true
+	p1:(25,75)
+	p2:(59,251)
+End Rectangle
+Rectangle
+	color:74,233,204
+	filled:false
+	p1:(160,53)
+	p2:(417,64)
+End Rectangle
+Rectangle
+	color:145,168,78
+	filled:false
+	p1:(65,276)
+	p2:(256,305)
+End Rectangle
+Rectangle
+	color:84,217,118
+	filled:false
+	p1:(289,352)
+	p2:(289,352)
+End Rectangle
+Rectangle
+	color:80,233,166
+	filled:false
+	p1:(289,352)
+	p2:(346,415)
+End Rectangle
+Rectangle
+	color:35,156,160
+	filled:false
+	p1:(26,354)
+	p2:(107,394)
+End Rectangle
+Rectangle
+	color:197,108,69
+	filled:true
+	p1:(333,160)
+	p2:(301,325)
+End Rectangle
+EndPaintSaveFile

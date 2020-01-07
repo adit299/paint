@@ -1,0 +1,77 @@
+PaintSaveFileVersion1.0
+Polyline
+	color:106,159,220
+	filled:true
+	points
+		point:(84,87)
+	end points
+End Polyline
+Polyline
+	color:99,30,48
+	filled:true
+	points
+		point:(84,87)
+		point:(84,87)
+		point:(84,87)
+		point:(84,87)
+		point:(84,87)
+		point:(84,87)
+		point:(84,87)
+		point:(84,87)
+		point:(324,70)
+		point:(346,256)
+		point:(93,310)
+		point:(278,452)
+		point:(369,327)
+		point:(84,87)
+	end points
+End Polyline
+Polyline
+	color:149,110,123
+	filled:true
+	points
+		point:(60,135)
+	end points
+End Polyline
+Polyline
+	color:251,104,175
+	filled:true
+	points
+		point:(60,135)
+		point:(60,135)
+		point:(60,135)
+		point:(60,135)
+		point:(60,135)
+		point:(60,135)
+		point:(81,259)
+		point:(191,240)
+		point:(60,135)
+	end points
+End Polyline
+Polyline
+	color:4,186,223
+	filled:false
+	points
+		point:(373,22)
+		point:(400,242)
+		point:(441,67)
+		point:(373,21)
+	end points
+End Polyline
+Polyline
+	color:37,60,27
+	filled:true
+	points
+		point:(378,437)
+		point:(406,322)
+		point:(461,462)
+		point:(379,438)
+	end points
+End Polyline
+Polyline
+	color:5,215,12
+	filled:false
+	points
+	end points
+End Polyline
+EndPaintSaveFile

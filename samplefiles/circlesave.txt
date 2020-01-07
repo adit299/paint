@@ -1,0 +1,98 @@
+PaintSaveFileVersion1.0
+Circle
+	color:122,193,120
+	filled:true
+	center:(66,59)
+	radius:0
+End Circle
+Circle
+	color:29,76,116
+	filled:true
+	center:(66,59)
+	radius:46
+End Circle
+Circle
+	color:121,235,63
+	filled:true
+	center:(283,154)
+	radius:0
+End Circle
+Circle
+	color:112,183,205
+	filled:true
+	center:(283,154)
+	radius:56
+End Circle
+Circle
+	color:44,60,141
+	filled:false
+	center:(159,406)
+	radius:0
+End Circle
+Circle
+	color:234,20,243
+	filled:true
+	center:(159,406)
+	radius:66
+End Circle
+Circle
+	color:250,22,28
+	filled:false
+	center:(477,307)
+	radius:0
+End Circle
+Circle
+	color:213,158,27
+	filled:true
+	center:(477,307)
+	radius:58
+End Circle
+Circle
+	color:127,30,231
+	filled:true
+	center:(163,224)
+	radius:41
+End Circle
+Circle
+	color:86,195,185
+	filled:false
+	center:(243,302)
+	radius:39
+End Circle
+Circle
+	color:76,136,167
+	filled:false
+	center:(438,42)
+	radius:0
+End Circle
+Circle
+	color:9,206,168
+	filled:true
+	center:(438,42)
+	radius:49
+End Circle
+Circle
+	color:202,67,185
+	filled:true
+	center:(22,297)
+	radius:0
+End Circle
+Circle
+	color:11,135,210
+	filled:false
+	center:(22,297)
+	radius:30
+End Circle
+Circle
+	color:203,213,133
+	filled:true
+	center:(373,457)
+	radius:0
+End Circle
+Circle
+	color:20,191,123
+	filled:true
+	center:(373,457)
+	radius:47
+End Circle
+EndPaintSaveFile
